@@ -1,0 +1,22 @@
+.placeholderstyle{
+    font-size: small;
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(218, 218, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: small;
+}
+
+.colorbutton{
+    background-color: rgb(168, 227, 241);
+ 
+}
+
+.imglogo{
+    width: 150px;
+}
